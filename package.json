@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "element-plus": "^2.0.4",
+    "monaco-editor": "^0.30.0",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.13"
+  }
+}
